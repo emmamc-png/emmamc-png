@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmamc-png
-- 👀 I’m interested in learning C++ and becoming more fimilar with other programming languages such as Java and Python
+- 👀 Some coding languages I know include: C++, C#, Python, and x86 Assembly
 - 🌱 I’m currently learning computer science at CU Boulder
 - 💞️ I’m looking to learn from others on different languages and getting started
 - 📫 Email: emma_mcarthur999@outlook.com
